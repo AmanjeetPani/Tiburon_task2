@@ -1,10 +1,10 @@
 # Tiburon_task2
 Tiburon task for ROS - Unity integration to move a player using number keys. </br>
 
-Steps to run the project : </br>
+Steps to run the project :</br>
 1. Clone or download the repository to your device. </br>
-2. Copy the  folder into your unity assets folder. </br>
-3. Copy the package into the src folder of your catkin_ws folder. </br>
+2. Copy the ROSBridgeLib and Scenes folder into your local unity assets folder. </br>
+3. Copy the </B>task_3</B> package into the src folder of your catkin_ws folder. </br>
 4. Open your terminal and build the package using "catkin build" command. </br>
 5. Launch roscore in your terminal followed by rosbridge websocket. </br>
 6. Open your Unity screen and hit the play button. </br>
